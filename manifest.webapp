@@ -1,0 +1,60 @@
+  {
+  "name": "Zoosk - #1 Dating App",
+  "description": "Zoosk is the #1 dating app in the app store. Our Behavioral Matchmaking™ technology connects millions of singles every day.\n❤ Browse millions of singles for FREE\n❤ View your scientific matches for FREE\n❤ Start a conversation for FREE\n❤ See who’s online for FREE\n❤ Vote users on Carousel for FREE",
+  "launch_path": "/?from=firefox",
+  "icons": {
+    "128": "/FirefoxOS-128.png",
+    "60": "/FirefoxOS-60.png",
+    "48": "/FirefoxOS-48.png",
+    "32": "/FirefoxOS-32.png",
+    "30": "/FirefoxOS-30.png",
+    "16": "/FirefoxOS-16.png"
+  },
+  "developer": {
+    "name": "Zoosk, Inc.",
+    "url": "https://www.zoosk.com"
+  },
+  "orientation": ["portrait-primary"],
+  "default_locale": "en",
+  "locales": {
+    "de": {
+    "name": "Zoosk - Top-Dating-App"
+  },
+  "el": {
+    "name": "Zoosk - #1 εφαρμογή γνωριμιών"
+  },
+    "es": {
+    "name": "Zoosk: la aplicación de citas n.º 1"
+  },
+  "fr": {
+    "name": "Zoosk : l'application de rencontres n° 1"
+  },
+  "hr": {
+    "name": "Zoosk – najbolja aplikaciji za sastajanje"
+  },
+  "hu": {
+    "name": "Zoosk - #1 Társkereső App"
+  },
+  "it": {
+    "name": "Zoosk – La App di incontri N° 1 in Italia"
+  },
+  "nl": {
+    "name": "Zoosk - De nummer 1 onder de dating-apps"
+  },
+  "pt-BR": {
+    "name": "Zoosk - o aplicativo de encontros do momento"
+  },
+  "ro": {
+    "name": "Zoosk - Aplicaţia de întâlniri nr. 1"
+  },
+  "ru": {
+    "name": "Zoosk — Приложение для знакомства №1"
+  },
+  "sr": {
+    "name": "Zoosk - #1 Апликација за проналажење партнера"
+  },
+  "tr": {
+    "name": "Zoosk - 1 Numaralı Flört Uygulaması"
+  }
+  }
+}
