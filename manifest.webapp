@@ -18,43 +18,43 @@
   "default_locale": "en",
   "locales": {
     "de": {
-    "name": "Zoosk - Top-Dating-App",
+    "name": "Zoosk - Top-Dating-App"
   },
   "el": {
-    "name": "Zoosk - #1 εφαρμογή γνωριμιών",
+    "name": "Zoosk - #1 εφαρμογή γνωριμιών"
   },
     "es": {
-    "name": "Zoosk: la app de citas n.º 1",
+    "name": "Zoosk: la app de citas n.º 1"
   },
   "fr": {
-    "name": "Zoosk : app de rencontres n° 1",
+    "name": "Zoosk : app de rencontres n° 1"
   },
   "hr": {
-    "name": "Zoosk: aplik. za sastajanje #1",
+    "name": "Zoosk: aplik. za sastajanje #1"
   },
   "hu": {
-    "name": "Zoosk - #1 Társkereső App",
+    "name": "Zoosk - #1 Társkereső App"
   },
   "it": {
-    "name": "Zoosk: App di incontri N° 1",
+    "name": "Zoosk: App di incontri N° 1"
   },
   "nl": {
-    "name": "Zoosk - Nr 1 onder dating-apps",
+    "name": "Zoosk - Nr 1 onder dating-apps"
   },
   "pt-BR": {
-    "name": "Zoosk - o app de encontros nº1",
+    "name": "Zoosk - o app de encontros nº1"
   },
   "ro": {
-    "name": "Zoosk: Cele mai tari întâlniri",
+    "name": "Zoosk: Cele mai tari întâlniri"
   },
   "ru": {
-    "name": "Zoosk: №1 для поиска партнеров",
+    "name": "Zoosk: №1 для поиска партнеров"
   },
   "sr": {
-    "name": "Zoosk - #1за зпознавање",
+    "name": "Zoosk - #1за зпознавање"
   },
   "tr": {
-    "name": "Zoosk - En İyi Flört Uygulaması",
-  },
-  },
+    "name": "Zoosk - En İyi Flört Uygulaması"
+  }
+  }
 }
