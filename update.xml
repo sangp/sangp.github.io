@@ -1,0 +1,11 @@
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+<versionNumber>4.171.0</versionNumber>
+<url>
+https://s3.amazonaws.com/update.zoosk.com/ZooskMessenger_4.171.0.air
+</url>
+<description>
+<![CDATA[
+What's New * Ability to chat with your Zoosk friends * Ability to accept/decline friend requests * Notifications when friends come online * Ability to search for online users * Ability to modify your search criteria * Ability to send friend requests to Zoosk users * Ability to login with Facebook Connect Frequently Asked Questions Please visit the <a href="http://www.zoosk.com/help.php">FAQ page on zoosk.com</a> for answers to commonly asked questions.
+]]>
+</description>
+</update>
